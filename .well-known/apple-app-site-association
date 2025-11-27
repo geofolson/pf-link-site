@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "<TEAMID>.com.g123.proto1",
+        "appID": "38DKYZQNUX.com.g123.proto1",
         "paths": [ "/plaid-oauth-complete", "/plaid-oauth-complete/*" ]
       }
     ]
